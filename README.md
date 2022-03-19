@@ -48,4 +48,12 @@ Here's a sample code
 </form>
 ```
 
+<a href="https://relaxed-noether-8dfe87.netlify.app"> Live Demo of Dummy Form</a>
+
+
+Preview of a Response 
+rate1	rate2	rate3	rate4	rate5	rate6	rate7	rate8	rate9	yes	no	toobad	bad	avg	good	superb	ip	user_agent	referrer	created_at
+						rate7			yes						superb	2401:4900:1c20:7aff:9553:3d26:3b9c:3d06	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36/3ksI6CtQ-58	https://relaxed-noether-8dfe87.netlify.app/	2022-01-25T12:49:32.090Z<img width="1660" alt="image" src="https://user-images.githubusercontent.com/51440734/159111619-cb36a8ac-ab7e-4bbe-9a1d-93197cd93101.png">
+
+
 <a href="https://docs.netlify.com/forms/setup/">Netlify Form and API documentation here</a>
